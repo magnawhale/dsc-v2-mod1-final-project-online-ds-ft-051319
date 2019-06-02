@@ -4,5 +4,5 @@ Real estate makes up an enormous portion of the economy of the United States. It
 
 This project will utilize a year's worth of housing data from the Seattle metro area to construct a model to accurately predict the sale price of a home based on the variables present in the dataset. 
 
-- This project utilizes the dataset called [kc_house_data.csv] (kc_house_data.csv)
-- You can view the whole process in [student2.ipynb] (student2.ipynb)
+- This project utilizes the dataset called [kc_house_data.csv](kc_house_data.csv)
+- You can view the whole process in [student2.ipynb](student2.ipynb)
