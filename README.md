@@ -6,3 +6,13 @@ This project will utilize a year's worth of housing data from the Seattle metro 
 
 - This project utilizes the dataset called [kc_house_data.csv](kc_house_data.csv)
 - You can view the whole process in [student2.ipynb](student2.ipynb)
+
+The questions we will answer in the midst of this project are:
+
+- How can we reduce the number of variables in our model to something manageable?
+- How might we handle geographical variables?
+- Do we have any linear relationships?
+
+If you are curious about my own journey through this process, feel free to read my [blog](https://profparker.blogspot.com/).
+
+
