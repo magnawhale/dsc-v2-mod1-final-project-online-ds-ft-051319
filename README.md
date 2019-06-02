@@ -15,4 +15,18 @@ The questions we will answer in the midst of this project are:
 
 If you are curious about my own journey through this process, feel free to read my [blog](https://profparker.blogspot.com/).
 
+This project resulted in the creation of a model that can predict the sale price of a house with an error of around 126,700 USD. The equation for this model is as follows:
 
+$$p = (1296579.6 \times f_L) + (60401.32 \times f_V) + (110.79 \times f_B) + (59144.57 \times f_G) + (111362.3 \times log_e(f_S)) - 62564620.4$$
+
+$p =$ House price (in USD)
+
+$f_L =$ latitude
+
+$f_V =$ times property has been viewed
+
+$f_B =$ square footage of basement
+
+$f_G =$ grade given to the housing unit, based on King County grading system
+
+$f_S =$ square footage of living space
